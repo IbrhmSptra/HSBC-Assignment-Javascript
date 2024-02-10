@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Poppins -->
+    <!-- Font Poppins -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+
+    <!-- Fontawesome Link for Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
+
+    <link rel="stylesheet" href="styles.css">
+    <title>Assignment 02</title>
+</head>
+
+<body>
+    <nav>
+        <div class="brand">
+            <h1>Makanan<span>Ku</span></h1>
+        </div>
+        <ul class="nav-links">
+            <li class="link"><a href="">Home</a></li>
+            <li class="link"><a href="">Menu</a></li>
+            <li class="link"><a href="">Bookmark</a></li>
+            <li class="link"><a href="">Contact</a></li>
+        </ul>
+    </nav>
+    <div class="container">
+        <div class="wrapper">
+            <!-- Left arrow Button -->
+            <i id="left" class="fa-solid fa-angle-left"></i>
+            <ul class="carousel">
+                <!-- card -->
+            </ul>
+            <!-- right arrow Button -->
+            <i id="right" class="fa-solid fa-angle-right"></i>
+        </div>
+
+        <div class="container-cart">
+            <h2>My Cart <i class="fa-solid fa-cart-shopping"></i></h2>
+            <div class="wrapper-cart">
+                <div id="cart" class="cart">
+                    <!-- card -->
+                </div>
+                <div class="total">
+                    <h3>Total</h3>
+                    <p>Total Harga: <span id="total"></span></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="main.js"></script>
+</body>
+
+</html>

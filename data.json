@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "nama": "Bungeoppang",
+    "img": "bungeoppang.png",
+    "harga": 50000
+  },
+  {
+    "id": 2,
+    "nama": "Chicken Katsu",
+    "img": "chickenkatsu.png",
+    "harga": 72000
+  },
+  {
+    "id": 3,
+    "nama": "Croissants",
+    "img": "croissants.png",
+    "harga": 25000
+  },
+  {
+    "id": 4,
+    "nama": "Dorayaki",
+    "img": "dorayaki.png",
+    "harga": 20000
+  },
+  {
+    "id": 5,
+    "nama": "Fish & Chips",
+    "img": "fish&chips.png",
+    "harga": 63000
+  },
+  {
+    "id": 6,
+    "nama": "French Toast",
+    "img": "frenchtoast.png",
+    "harga": 45000
+  },
+  {
+    "id": 7,
+    "nama": "Jjajangmyeon",
+    "img": "jjajangmyeon.png",
+    "harga": 38000
+  },
+  {
+    "id": 8,
+    "nama": "Kimchi",
+    "img": "kimchi.png",
+    "harga": 24000
+  },
+  {
+    "id": 9,
+    "nama": "Kimchijjigae",
+    "img": "kimchijjigae.png",
+    "harga": 68000
+  },
+  {
+    "id": 10,
+    "nama": "Mac & Cheese",
+    "img": "macncheese.png",
+    "harga": 70000
+  }
+]
